@@ -49,7 +49,7 @@ Google Translate is a widely used machine translation service developed by Googl
 
 To set up the project, follow these steps:
 
-1. Clone the repository:
+ Clone the repository:
    ```bash
    git clone https://github.com/waleedhussien11/
    cd Machine-Translation-Models-
