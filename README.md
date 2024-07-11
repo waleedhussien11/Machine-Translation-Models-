@@ -1,5 +1,4 @@
-# Machine-Translation-Models-# Translation Model Comparison
-
+# Machine-Translation-Models
 This project aims to compare the performance of various translation models, including BERT, Helsinki-NLP's Opus-MT, T5, and Google Translate. The comparison includes a thorough analysis of translation accuracy, speed, and resource utilization.
 
 ## Table of Contents
